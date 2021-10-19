@@ -23,7 +23,7 @@ function Header({ data }) {
       <Grid item xs={7.5} >
         <Item style={{ textAlign: 'center' }}>
           <span className='header-left-title'><h2>COVID-19 TRACKER</h2></span>
-          <span>Nguồn: WHO, CDC & Bộ Y Tế Việt Nam. </span>
+          <span>Nguồn: WHO, CDC & Bộ Y Tế Việt Nam </span>
         </Item>
       </Grid>
       <Grid item xs={1.5}>
